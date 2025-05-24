@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/839189307637497890/1375898310732288100/Shoebill.png?ex=68335ca8&is=68320b28&hm=27a1b5aed593e4183bef168fa747788fc9fb04adc4122dbefd9ec4b3c48690d1&" width="120" />
+  <img src="https://github.com/labonet/shoebill/blob/main/Shoebill2.png?raw=true" width="120" />
 </p>
 
 <h1 align="center">🛡️ Shoebill</h1>
